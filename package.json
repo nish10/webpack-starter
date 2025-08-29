@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/nish10/webpack-starter#readme",
   "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
     "webpack": "^5.101.3",
     "webpack-cli": "^6.0.1"
   }
