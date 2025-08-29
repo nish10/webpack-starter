@@ -1,0 +1,23 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate for creating apps with webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nish10/webpack-starter.git"
+  },
+  "author": "Nishant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nish10/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/nish10/webpack-starter#readme",
+  "devDependencies": {
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1"
+  }
+}
